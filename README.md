@@ -12,7 +12,7 @@
 
 ### `AI built it. I fix it.`
 
-[![Website](https://img.shields.io/badge/aihowitzer.dev-FF6A00?style=for-the-badge&logoColor=white)](https://aihowitzer.dev)
+[![Website](https://img.shields.io/badge/aihowitzer.com-FF6A00?style=for-the-badge&logoColor=white)](https://aihowitzer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tilakrajgandhi)
 [![Email](https://img.shields.io/badge/connect@aihowitzer.com-FF6A00?style=for-the-badge&logoColor=white)](mailto:connect@aihowitzer.com)
 
@@ -109,20 +109,20 @@ $ rabbitmq-health-monitor --host=your-cluster
 ## ❯ contact --free-audit
 
 ```bash
-$ curl -X POST https://aihowitzer.dev \
+$ curl -X POST https://aihowitzer.com \
   -d '{ "problem": "your broken system here" }' \
   --header "no-bs: true"
 
 > Response: I'll call you back within 24 hours.
 ```
 
-**→ [aihowitzer.dev](https://aihowitzer.dev)** · **→ [connect@aihowitzer.com](mailto:connect@aihowitzer.com)**
+**→ [aihowitzer.com](https://aihowitzer.com)** · **→ [connect@aihowitzer.com](mailto:connect@aihowitzer.com)**
 
 ---
 
 <div align="center">
 <sub>
 If your queues are losing messages right now — they probably are —
-<a href="https://aihowitzer.dev">let's talk.</a>
+<a href="https://aihowitzer.com">let's talk.</a>
 </sub>
 </div>
