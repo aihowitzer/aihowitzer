@@ -59,7 +59,7 @@ Databases          PostgreSQL · MongoDB · Redis
 
 ---
 
-## ❯ services --fixed-price
+## ❯ services --nominal-price
 
 | Package | What You Get |
 |---|---|
