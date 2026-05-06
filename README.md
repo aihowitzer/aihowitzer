@@ -61,12 +61,12 @@ Databases          PostgreSQL · MongoDB · Redis
 
 ## ❯ services --fixed-price
 
-| Package | What You Get | Price |
-|---|---|---|
-| 🔧 **Messaging Health Fix** | Queue audit · DLQ cleanup · Retry hardening · Alerts | ₹40k–80k |
-| 📊 **Realtime Monitor Dashboard** | Live logs · Queue health panel · Failure alerts · Azure deploy | ₹60k–1L |
-| 🧹 **AI Slop Cleanup** | Code audit · Refactor · Docs · Test coverage | ₹30k–60k |
-| 🏗️ **Async Architecture Consult** | Design · Roadmap · Event-driven systems | ₹25k–50k |
+| Package | What You Get |
+|---|---|
+| 🔧 **Messaging Health Fix** | Queue audit · DLQ cleanup · Retry hardening · Alerts |
+| 📊 **Realtime Monitor Dashboard** | Live logs · Queue health panel · Failure alerts · Azure deploy |
+| 🧹 **AI Slop Cleanup** | Code audit · Refactor · Docs · Test coverage |
+| 🏗️ **Async Architecture Consult** | Design · Roadmap · Event-driven systems |
 
 > All packages are **fixed-scope, fixed-price**. No hourly surprises.
 > Starts with a **free 30-minute audit call**.
